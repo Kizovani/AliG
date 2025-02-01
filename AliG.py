@@ -15,6 +15,6 @@ def print_ascii_art():
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣶⠀⠀⠀⠀⢰⣾⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠀⠀⠀⠀⠈⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀"""
     print(art)
-print("ali G is 205 pounds!")
+print("ali G is 215 pounds!")
 if __name__ == "__main__":
     print_ascii_art()
